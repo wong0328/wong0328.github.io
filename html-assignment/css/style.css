@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue;   
+    color: darkblue;  /* text color*/
+}
+
+h1 {
+    font-size: 40px;
+}
+
+img {
+    width: 80%;
+    /* width value: we can have percentage (%), pixels (px), em, rem...*/
+}
+
+
+.topnav {
+    color: palevioletred;
+}
+
+#special {
+    color: purple;
+}
