@@ -1,10 +1,12 @@
 body {
     background-color: lightblue;   
     color: darkblue;  /* text color*/
+    font-size: 18px;
 }
 
 h1 {
     font-size: 40px;
+    
 }
 
 img {
@@ -19,4 +21,8 @@ img {
 
 #special {
     color: purple;
+}
+
+.boxes {
+    display:  flex;
 }
