@@ -23,6 +23,6 @@ img {
     color: purple;
 }
 
-.boxes {
-    display:  flex;
+ul {
+    list-style-type: square;
 }
