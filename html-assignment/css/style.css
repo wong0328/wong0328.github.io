@@ -15,9 +15,11 @@ img {
 }
 
 
-.topnav {
+topnav {
     color: palevioletred;
 }
+
+list-type:none 
 
 #special {
     color: purple;
@@ -27,6 +29,7 @@ ol {
     list-style-type: square;
 }
 
-:nth-child(odd){
-    backround: red 
+ol li:nth-child(odd){
+    background: red; 
 }
+
