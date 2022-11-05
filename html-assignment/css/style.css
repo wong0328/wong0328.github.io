@@ -14,6 +14,33 @@ img {
     /* width value: we can have percentage (%), pixels (px), em, rem...*/
 }
 
+nav {
+    background-color: white;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+/* nav li {
+    padding: 5px;
+} */
+
+nav li a {
+    color: black;
+    border: 2px solid yellow;  
+}
+
+nav li a:hover {
+    background-color: orange;
+}
+
+a {
+text-decoration: none;
+background-color: lightseagreen;
+}
+
 
 topnav {
     color: palevioletred;
